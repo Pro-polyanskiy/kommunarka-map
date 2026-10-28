@@ -1,9 +1,7 @@
-# Коммунарка: 3D-карта среды (пилот)
+# Коммунарка — где тихо, чисто и зелено
 
-Шум (оценка с учётом экранов и зданий), воздух (CAMS), лес (OSM), температура поверхности (Landsat 8/9), здания (OSM).
+Интерактивная 3D-карта: https://pro-polyanskiy.github.io/kommunarka-map/
 
-- 3D-карта: index.html
-- 2D-карта: 2d.html
-- Данные по ячейкам H3: kommunarka_grid.csv
+Оценка 0–10 для каждого квартала (~0,1 км²): шум с учётом экранов и домов, зелень, жара по Landsat, воздух CAMS, промзоны. Рейтинг 128 микрорайонов, ЖК и посёлков.
 
-Данные: © участники OpenStreetMap (ODbL), Copernicus CAMS/ERA5 через Open-Meteo, USGS Landsat через Microsoft Planetary Computer, подложка Esri World Imagery.
+Данные: © OpenStreetMap (ODbL), Copernicus CAMS/ERA5 (Open-Meteo), USGS Landsat (Microsoft Planetary Computer), Esri World Imagery.
